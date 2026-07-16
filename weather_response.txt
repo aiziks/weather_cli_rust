@@ -1,0 +1,120 @@
+
+// // Open Weather API
+// {
+//     "coord": {
+//         "lon": -0.1257,
+//         "lat": 51.5085
+//     },
+//     "weather": [
+//         {
+//             "id": 800,
+//             "main": "Clear",
+//             "description": "clear sky",
+//             "icon": "01d"
+//         }
+//     ],
+//     "base": "stations",
+//     "main": {
+//         "temp": 22.92,
+//         "feels_like": 22.94,
+//         "temp_min": 21.99,
+//         "temp_max": 23.86,
+//         "pressure": 1021,
+//         "humidity": 64,
+//         "sea_level": 1021,
+//         "grnd_level": 1017
+//     },
+//     "visibility": 10000,
+//     "wind": {
+//         "speed": 3.99,
+//         "deg": 62,
+//         "gust": 5.77
+//     },
+//     "clouds": {
+//         "all": 0
+//     },
+//     "dt": 1784191520,
+//     "sys": {
+//         "type": 2,
+//         "id": 2028218,
+//         "country": "GB",
+//         "sunrise": 1784174505,
+//         "sunset": 1784232655
+//     },
+//     "timezone": 3600,
+//     "id": 2643743,
+//     "name": "London",
+//     "cod": 200
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // weatherAPI
+// {
+//     "location": {
+//         "name": "London",
+//         "region": "City of London, Greater London",
+//         "country": "United Kingdom",
+//         "lat": 51.5171,
+//         "lon": -0.1062,
+//         "tz_id": "Europe/London",
+//         "localtime_epoch": 1784181676,
+//         "localtime": "2026-07-16 07:01"
+//     },
+//     "current": {
+//         "last_updated_epoch": 1784180700,
+//         "last_updated": "2026-07-16 06:45",
+//         "temp_c": 16.1,
+//         "temp_f": 61.0,
+//         "is_day": 1,
+//         "condition": {
+//             "text": "Sunny",
+//             "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+//             "code": 1000
+//         },
+//         "wind_mph": 7.4,
+//         "wind_kph": 11.9,
+//         "wind_degree": 38,
+//         "wind_dir": "NE",
+//         "pressure_mb": 1022.0,
+//         "pressure_in": 30.18,
+//         "precip_mm": 0.0,
+//         "precip_in": 0.0,
+//         "humidity": 88,
+//         "cloud": 0,
+//         "feelslike_c": 16.1,
+//         "feelslike_f": 61.0,
+//         "windchill_c": 17.0,
+//         "windchill_f": 62.7,
+//         "heatindex_c": 17.0,
+//         "heatindex_f": 62.7,
+//         "dewpoint_c": 11.5,
+//         "dewpoint_f": 52.8,
+//         "vis_km": 10.0,
+//         "vis_miles": 6.0,
+//         "uv": 0.2,
+//         "gust_mph": 10.9,
+//         "gust_kph": 17.5,
+//         "will_it_rain": 0,
+//         "chance_of_rain": 6,
+//         "will_it_snow": 0,
+//         "chance_of_snow": 0,
+//         "wetbulb_c": 0.0,
+//         "wetbulb_f": 32.0,
+//         "short_rad": 4.58,
+//         "diff_rad": 2.07,
+//         "dni": 0.01,
+//         "gti": 3.88
+//     }
+// }
